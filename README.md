@@ -5,9 +5,9 @@ Before you begin, make sure you have installed:
 
 •C# programming language support
 
-•.NET SDK 8 or newer (better to use latest version)
+•.NET SDK 7 or 8
 
-•VS Code with C# extensions
+•VS Code with C# extension and C# dev kit logged on your Microsoft account 
 
 •All applications properly added to your system PATH
 
@@ -26,6 +26,8 @@ dotnet run --project "C:\Users\Rolero\Downloads\FBX2M3G\FBX2M3G.csproj" -- input
 -Important Notes
 
 •File Naming Rules:
+Replace the username in \Users\Rolero\Downloads with the your actual one in the code you'll copy, (example: \Users\Example\Downloads\FBX2M3G...)
+
 Replace input.fbx with your actual FBX file name
 
 Replace output.m3g with your desired output name
@@ -51,14 +53,16 @@ Make sure everything is in your system PATH
 
 Make sure your FBX file exists in the correct folder
 
+Make sure your C# Dev Kit logged in with a Microsoft account 
+
 Provide feedback about your results - it might work or might need adjustments
 
 -Final Check
 Before running, verify:
 
-.NET SDK is installed
+.NET SDK 8 or 7 is installed
 
-VS Code with C# extensions is ready
+VS Code with C# extension with C# Dev Kit is ready
 
 You're in the correct folder in Command Prompt
 
@@ -66,4 +70,4 @@ Your FBX file is available
 
 You're using the correct file names in the command
 
-The process is easy once everything is set up correctly! Just follow these steps and you should be able to convert your FBX files to M3G format, Enjoy!! :D
+The process is easy once everything is set up correctly! Just follow these steps and you should be able to convert your FBX files to M3G format, Enjoy!! :D (I'll soon find a way to make an app for this to easily open it instead of doing codes)
