@@ -5,7 +5,7 @@ Before you begin, make sure you have installed:
 
 •C# programming language support
 
-•.NET SDK 7 or 8
+•.NET SDK 8
 
 •VS Code with C# extension and C# dev kit logged on your Microsoft account 
 
@@ -60,7 +60,7 @@ Provide feedback about your results - it might work or might need adjustments
 -Final Check
 Before running, verify:
 
-.NET SDK 8 or 7 is installed
+.NET SDK 8 is installed
 
 VS Code with C# extension with C# Dev Kit is ready
 
